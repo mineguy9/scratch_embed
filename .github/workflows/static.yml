@@ -61,4 +61,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          artifact-name: scratch-embed-artifact
+          artifact_name: scratch-embed-artifact
